@@ -1,12 +1,6 @@
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
-.utmp/
-.vs/
-[Ll]ogs/
-[Pp]ackages
-[Pp]rojectSettings
-[Uu]serSettings
 /*.csproj
 /*.unityproj
 /*.sln
