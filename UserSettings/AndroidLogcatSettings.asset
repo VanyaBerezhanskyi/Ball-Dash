@@ -1,0 +1,159 @@
+{
+    "m_SelectedDeviceId": "R9WX2017BYN",
+    "m_SelectedProcess": {
+        "deviceId": "R9WX2017BYN",
+        "name": "com.UnityTechnologies.Mobile3DTemplate",
+        "processId": 20707,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownProcessesForSerialization": [
+        {
+            "deviceId": "R9WX2017BYN",
+            "name": "com.UnityTechnologies.Mobile3DTemplate",
+            "processId": 11304,
+            "exited": false
+        },
+        {
+            "deviceId": "R9WX2017BYN",
+            "name": "com.UnityTechnologies.Mobile3DTemplate",
+            "processId": 24935,
+            "exited": false
+        },
+        {
+            "deviceId": "R9WX2017BYN",
+            "name": "com.UnityTechnologies.Mobile3DTemplate",
+            "processId": 3769,
+            "exited": false
+        },
+        {
+            "deviceId": "R9WX2017BYN",
+            "name": "com.UnityTechnologies.Mobile3DTemplate",
+            "processId": 10962,
+            "exited": false
+        },
+        {
+            "deviceId": "R9WX2017BYN",
+            "name": "com.UnityTechnologies.Mobile3DTemplate",
+            "processId": 11539,
+            "exited": false
+        },
+        {
+            "deviceId": "R9WX2017BYN",
+            "name": "com.UnityTechnologies.Mobile3DTemplate",
+            "processId": 12700,
+            "exited": false
+        },
+        {
+            "deviceId": "R9WX2017BYN",
+            "name": "com.UnityTechnologies.Mobile3DTemplate",
+            "processId": 13659,
+            "exited": false
+        },
+        {
+            "deviceId": "R9WX2017BYN",
+            "name": "com.UnityTechnologies.Mobile3DTemplate",
+            "processId": 18915,
+            "exited": false
+        },
+        {
+            "deviceId": "R9WX2017BYN",
+            "name": "com.UnityTechnologies.Mobile3DTemplate",
+            "processId": 20707,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_ExtraWindowState": {
+        "Type": 0,
+        "Height": 0.0
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "AutoCapture": true
+    },
+    "m_FilterOptions": {
+        "m_Filter": "",
+        "m_UseRegularExpressions": false,
+        "m_MatchCase": false
+    },
+    "m_SymbolPaths": [],
+    "m_CaptureVideoSettings": {
+        "TimeLimitEnabled": false,
+        "TimeLimit": 180,
+        "VideoSizeEnabled": false,
+        "VideoSizeX": 1280,
+        "VideoSizeY": 720,
+        "BitRateEnabled": false,
+        "BitRateK": 20000,
+        "DisplayIdEnabled": false,
+        "DisplayId": ""
+    },
+    "m_ScreenCaptureSettings": {
+        "Mode": 0,
+        "m_LastSaveLocation": [
+            "C:\\Users\\vanec\\Ball Dash",
+            "C:\\Users\\vanec\\Ball Dash"
+        ]
+    },
+    "m_QueryLayoutSettings": {
+        "LastLayoutSaveLocation": "",
+        "LastScreenshotSaveLocation": ""
+    },
+    "m_InputSettings": {
+        "ShiftModifier": false,
+        "SendText": "",
+        "PosixKillSignal": 0,
+        "TargetProcess": {
+            "deviceId": "",
+            "name": "",
+            "processId": 0,
+            "exited": false
+        }
+    },
+    "m_AutoScroll": 2
+}
